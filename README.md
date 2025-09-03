@@ -6,3 +6,5 @@ Demo showcases the following:
 3. BuffController - Handles buffs, such as passives, overtime effects and buffs/debuffs.
 4. Data - Creates proxies to player's data, which can be connected to callbacks that fire when values are changed.
 5. StateEnums - Current available states that statemachine manages.
+
+Code is unlicensed for educational / marketing purposes.
